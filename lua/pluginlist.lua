@@ -54,15 +54,18 @@ return {
 
 	
 	{
-		'preservim/nerdtree'
+		'preservim/nerdtree',
 	},
 
 	
 	{
-		'ryanoasis/vim-devicons'
+		'nvim-tree/nvim-web-devicons',
 	},
 
-
+	{
+		'dense-analysis/ale',
+	},
+	
 	{
 	 	'tpope/vim-fugitive'
 	},
