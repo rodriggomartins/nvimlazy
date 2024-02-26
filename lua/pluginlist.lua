@@ -70,7 +70,9 @@ return {
 	 	'tpope/vim-fugitive'
 	},
 
-
+	{
+		'jiangmiao/auto-pairs',
+	},
 
     {
         'nvim-lualine/lualine.nvim',
